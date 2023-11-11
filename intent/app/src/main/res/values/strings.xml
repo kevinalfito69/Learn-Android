@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">intent</string>
+    <string name="pindah_activity">Pindah Activity</string>
 </resources>
