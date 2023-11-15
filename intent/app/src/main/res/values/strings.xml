@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">intent</string>
     <string name="pindah_activity">Pindah Activity</string>
+    <string name="halaman_baru">Ini adalah halaman baru</string>
+    <string name="pindah_dengan_data">Pindah dengan Data</string>
+    <string name="data_yang_diterima">Data yang diterima adalah %s</string>
+    <string name="masukan_umur">Masukan umur</string>
+    <string name="masukan_nama">Masukan nama</string>
+    <string name="parceable_intent">Pindah dengan Objek Parceable Intent</string>
+    <string name="ini_adalah_data_parcelable">Ini adalah data parcelable</string>
+    <string name="hubungi_kami">Hubungi kami</string>
+    <string name="panjang_persegi">Masukan bilangan panjang persegi</string>
+    <string name="lebar_persegi">Masukan Lebar Persegi</string>
+    <string name="menghitung_luas_persegi_panjang">Menghitung Luas Persegi Panjang</string>
+    <string name="hasil">Hasil :</string>
+    <string name="hitung_luas_persegi_panjang">Hitung Luas Persegi Panjang</string>
+    <string name="hitung">Hitung</string>
 </resources>
